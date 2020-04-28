@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2400"
+all_model_checkpoint_paths: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2000"
+all_model_checkpoint_paths: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2100"
+all_model_checkpoint_paths: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2200"
+all_model_checkpoint_paths: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2300"
+all_model_checkpoint_paths: "/home/LAB/guohua/textcnn334455/runs/1587456699/checkpoints/model-2400"
